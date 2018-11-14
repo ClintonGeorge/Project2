@@ -63,7 +63,7 @@ nav a.active{
 	background-color: red;
 }*/
 .navbar {	
-  background-color: GreenYellow; 
+  background-color: red; 
   height:48px;
   position: fixed; 
   margin: 0% 0% 0% 0%;
