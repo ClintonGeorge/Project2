@@ -2,13 +2,13 @@
   background-color:#BDD358;
 }
 .resume_body {
-  background:url('Resume_Background.jpg');
+  background:url('../media/Resume_Background.jpg');
   background-repeat: repeat;
   background-size: 100%;
 }
 
 .UAE_body {
-  background:url('UAE_Background.jpg');
+  background:url('../media/UAE_Background.jpg');
   background-repeat: repeat;
   background-size: 100%;
 }
