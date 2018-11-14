@@ -25,6 +25,8 @@ index_content {
   font-family: 'Crimson Text', serif;  
 }
 img {
+  width: 300px;
+  height: 300px;
   float: left;
 }
 resume_content {
