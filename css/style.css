@@ -1,5 +1,5 @@
 .index_body {
-  background-color: DBE0E6;
+  background-color: #dbe0e6;
 }
 .resume_body {
   background: url('../media/Resume_Background.jpg');
@@ -17,7 +17,7 @@
   background-position: center center;
 }
 index_content {
-  background-color: ffffff;
+  background-color: #ffffff;
   overflow: hidden;
   display: block;
   padding-bottom: 4em;
@@ -28,7 +28,7 @@ img {
   float: left;
 }
 resume_content {
-  background-color: ffffff;
+  background-color: #ffffff;
   overflow: hidden;
   display: block;
   padding-bottom: 4em;
@@ -36,7 +36,7 @@ resume_content {
   font-family: 'EB Garamond', serif;
 }
 UAE_content {
-  background-color: ffffff;
+  background-color: #ffffff;
   overflow: hidden;
   display: block;
   padding-bottom: 4em;
@@ -66,7 +66,7 @@ nav a.active{
 	background-color: red;
 }*/
 .navbar {	
-  background-color: F2EAEF; 
+  background-color: #f2eaef; 
   height:48px;
   position: fixed; 
   margin: 0% 0% 0% 0%;
@@ -77,7 +77,7 @@ nav a.active{
 .navbar a { 
   display: block; 
   text-align: center; 
-  color: 000000; 
+  color: #000000; 
   padding: 10px 20px;
   font-family: 'Dosis', sans-serif;
   font-size: 30px;
@@ -101,15 +101,15 @@ footer {
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: 514F50;
-  color: ffffff;
+  background-color: 514f50;
+  color: #ffffff;
   text-align: center;
   height: 4em;
   font-size: 1em;
 }
 
 footer p a {
-  color: ffffff;
+  color: #ffffff;
 }
 
 h1 {
