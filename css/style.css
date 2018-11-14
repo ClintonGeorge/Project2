@@ -24,6 +24,8 @@ index_content {
   font-size: 2em;
   font-family: 'Crimson Text', serif;  
 }
+img {
+  float: right;
 resume_content {
   background-color: ffffff;
   overflow: hidden;
