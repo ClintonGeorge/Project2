@@ -18,7 +18,7 @@
 }
 index_content {
   background-color: #ffffff;
-  overflow: hidden;
+  overflow: auto;
   display: block;
   padding-bottom: 4em;
   font-size: 2em;
