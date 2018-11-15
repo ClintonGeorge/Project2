@@ -72,7 +72,7 @@ nav a.active{
 }*/
 .navbar {	
   background-color: #f2eaef; 
-  height:48px;
+  height:30px;
   position: fixed; 
   margin: 0% 0% 0% 0%;
   top: 0; 
@@ -85,7 +85,7 @@ nav a.active{
   color: #000000; 
   padding: 10px 20px;
   font-family: 'Dosis', sans-serif;
-  font-size: 30px;
+  font-size: 25px;
 }
 
 .navbar a:hover {
