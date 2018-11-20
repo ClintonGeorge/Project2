@@ -32,6 +32,10 @@ img {
   height: 300px;
   float: left;
 }
+video {
+  width: auto;
+  height: auto;
+}
 .resume_content {
   /*background-color: #ffffff;*/
   overflow: hidden;
