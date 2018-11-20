@@ -77,8 +77,8 @@ nav a.active{
 .navbar {	
   background-color: #f2eaef; 
   height:48px;
-  position: fixed;
-  margin: 15% 0% 0% 0%;
+  position: relative;
+  margin: 12% 0% 0% 0%;
   top: 0; 
   width:100%; 
 } 
