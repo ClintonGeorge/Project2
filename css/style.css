@@ -17,7 +17,7 @@
   background-position: center center;
 }
 .index_content {
-  background-color: #ffffff;
+  /*background-color: #ffffff;*/
   overflow: auto;
   display: block;
   padding-bottom: 4em;
@@ -33,7 +33,7 @@ img {
   float: left;
 }
 .resume_content {
-  background-color: #ffffff;
+  /*background-color: #ffffff;*/
   overflow: hidden;
   display: block;
   padding-bottom: 4em;
@@ -41,7 +41,7 @@ img {
   font-family: 'EB Garamond', serif;
 }
 .UAE_content {
-  background-color: #ffffff;
+  /*background-color: #ffffff;*/
   overflow: hidden;
   display: block;
   padding-bottom: 4em;
