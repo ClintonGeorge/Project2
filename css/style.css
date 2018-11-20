@@ -16,7 +16,7 @@
   background-size: cover;
   background-position: center center;
 }
-index_content {
+.index_content {
   background-color: #ffffff;
   overflow: auto;
   display: block;
@@ -32,7 +32,7 @@ img {
   height: 300px;
   float: left;
 }
-resume_content {
+.resume_content {
   background-color: #ffffff;
   overflow: hidden;
   display: block;
@@ -40,7 +40,7 @@ resume_content {
   font-size: 2em;
   font-family: 'EB Garamond', serif;
 }
-UAE_content {
+.UAE_content {
   background-color: #ffffff;
   overflow: hidden;
   display: block;
